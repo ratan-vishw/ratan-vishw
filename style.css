@@ -74,7 +74,7 @@ nav {
 /* Hero Section */
 .hero {
     height: 60vh;
-    background: url('img/backgroundLogo.png') no-repeat center/cover;
+    background: url('backgroundLogo.png') no-repeat center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
